@@ -1,0 +1,5 @@
+frontend/node_modules/*
+backend/venv/
+backend/app/__pycache__
+backend/generated_reports
+.vscode

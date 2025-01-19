@@ -1,0 +1,47 @@
+.traffic-overview {
+    padding: 20px;
+    background-color: #f8f9fc;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .topology-section {
+    margin-bottom: 20px;
+  }
+  
+  .network-container {
+    height: 500px;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  .traffic-details {
+    margin-top: 20px;
+  }
+  
+  .traffic-details h3 {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  .traffic-details table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .traffic-details table th,
+  .traffic-details table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .traffic-details table th {
+    background-color: #f2f2f2;
+  }
+  
