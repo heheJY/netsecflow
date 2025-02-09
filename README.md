@@ -1,6 +1,6 @@
 # NetSecFlow
 
-NetSecFlow is an automated network security management system designed for Software-Defined Networking (SDN) environments. The project leverages real-time network telemetry, integrates with SIEM tools like ELK, and provides an intuitive dashboard for administrators to perform traffic control actions such as blocking, redirecting, rate limiting, and rerouting traffic.
+NetSecFlow is an automated network security management system designed for Software-Defined Networking (SDN) environments. The project leverages real-time network telemetry, integrates with SIEM tools like ELK, and provides an intuitive dashboard for administrators to perform traffic control actions such as blocking, redirecting, rate limiting, and rerouting traffic. A more detailed report is available at FYP 2 Report.pdf, feel free to read on it(more features).
 
 ---
 
